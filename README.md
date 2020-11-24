@@ -6,12 +6,28 @@ I've created a responsive webpage to show-case some information about myself. Iv
 
 Three seperate html files were created for this project. All html sheets source frame works from external souurces which I've linked below. I do not claim any credit for majority of the styling! The style.css file contained was created by me. I can only take credit for the styling in the stylesheet provided.
 
-### Linked Sources For Styling
+
+### Screenshots
+<details>
+    <summary>Html</summary>
+    Something small enough to escape casual notice.
+</details>
+<details>
+    <summary>Themes, Icons, Images</summary>
+    Something small enough to escape casual notice.
+</details>
+<details>
+    <summary>Deployed Webpage</summary>
+    Something small enough to escape casual notice.
+</details>
+
+### Credits and Linked Sources
 
 https://getbootstrap.com/
 https://bootswatch.com/
 https://fontawesome.com/v4.7.0/
 https://stock.adobe.com/photos
+https://placeholder.com/
 
 
 #### Deployable Link and Repository Url
