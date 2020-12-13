@@ -10,15 +10,15 @@ Three seperate html files were created for this project. All html sheets source 
 ### Screenshots
 <details>
     <summary>Html</summary>
-    Something small enough to escape casual notice.
+    
 </details>
 <details>
     <summary>Themes, Icons, Images</summary>
-    Something small enough to escape casual notice.
+    
 </details>
 <details>
     <summary>Deployed Webpage</summary>
-    Something small enough to escape casual notice.
+    
 </details>
 
 ### Credits and Linked Sources
